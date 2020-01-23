@@ -17,7 +17,8 @@ hr{
     margin:400 auto;
     width: 15%;
   }
-p{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+p
+    {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 20px;
     line-height: 1,5;
 }
@@ -28,7 +29,7 @@ table {
     border-style: groove;
   }
   
-  table,  td {
+table,  td {
     border: 5px solid rgba(219, 230, 235, 0.548);
     color: cornsilk;
     font-size: 25px;
@@ -71,9 +72,8 @@ ul {
 #profil{
     border: 2px solid cadetblue;
     border-radius:  50%;
-    transform: rotate(90deg);
-    width: 250px;
-    height: 250px;
+    width:300px;
+    height: 300px;
     margin:50px;
 }
 #quote{
